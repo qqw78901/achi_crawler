@@ -1,0 +1,24 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "async": "^2.6.0",
+    "axios": "^0.17.1",
+    "cheerio": "^1.0.0-rc.2",
+    "eventproxy": "^1.0.0",
+    "express": "^4.16.2",
+    "express-useragent": "^1.0.12",
+    "iconv-lite": "^0.4.19",
+    "moment": "^2.20.1",
+    "ua-device": "^0.1.10",
+    "urlencode": "^1.1.0",
+    "winston": "^3.0.0-rc1"
+  }
+}
